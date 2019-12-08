@@ -1,2 +1,2 @@
 # Patapon
-:satellite: Structure Git Flow
+:satellite: Structural Git Flow
